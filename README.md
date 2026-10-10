@@ -2,18 +2,26 @@
 
 A small, untimed browser game for writing clearer AI prompts. Six fictional scenarios connect prompting to coding, product management, Agile and communication. Players choose three useful additions, read the reasoning and take away an example prompt. A final prompt builder and downloadable notes help turn the lesson into practice.
 
+## Play
+
+[Play Prompt Practice](https://codedfemale-dev.github.io/prompt-practice/)
+
+[GitHub repository](https://github.com/codedfemale-dev/prompt-practice)
+
+Published on GitHub Pages on 10 October 2026. The live opening page and first challenge scoring and feedback were checked in a browser.
+
 ## Run
 
 Open `index.html` in a modern browser. No installation, build step, API key or account is needed. For a local preview, run `python3 -m http.server 8000` from this folder and visit `http://localhost:8000`.
 
-## Upload to GitHub Pages
+## Publish your own copy to GitHub Pages
 
 1. Create a repository named `prompt-practice` in your GitHub account.
 2. Upload the contents of this folder, including `assets/`. Keep `index.html` at the repository root.
 3. In **Settings → Pages**, choose **Deploy from a branch**, then `main` and `/ (root)`.
 4. Save and wait for GitHub to show the published URL.
 
-For the `codedfemale-dev` account, the expected address is `https://codedfemale-dev.github.io/prompt-practice/`. This is an expected address, not confirmation of publication. Link to the verified address from a Coded Female blog post or learning page.
+For your own copy, GitHub will show the published address in Settings → Pages. The original Coded Female game is available at the play link above.
 
 ## How the game works
 

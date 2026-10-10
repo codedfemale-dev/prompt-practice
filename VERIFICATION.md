@@ -1,6 +1,6 @@
 # Verification
 
-Checked locally on 10 October 2026. No GitHub upload or public deployment has been performed.
+Checked locally on 10 October 2026, then uploaded to https://github.com/codedfemale-dev/prompt-practice and published at https://codedfemale-dev.github.io/prompt-practice/. GitHub Pages deployment completed successfully. The live opening page and first challenge were verified, including a correct 3 of 3 score and feedback.
 
 ## Passed
 
@@ -18,4 +18,4 @@ Checked locally on 10 October 2026. No GitHub upload or public deployment has be
 
 ## Limits
 
-The clipboard fallback is implemented but was not exercised because browser copying succeeded. This was a local browser check, not a full cross-browser or screen-reader audit. GitHub Pages must be checked after upload.
+The clipboard fallback is implemented but was not exercised because browser copying succeeded. This was a local browser check, not a full cross-browser or screen-reader audit. Live verification covered the opening page and first challenge; the full six-round playthrough was completed locally with the same game files.
